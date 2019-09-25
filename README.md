@@ -8,5 +8,5 @@ O projeto do site Finans foi desenvolvido para a prática avançada em linguagem
 
 
 
-##A Tela Principal do Site Finans
+## A Tela Principal do Site Finans
 ![readme](https://user-images.githubusercontent.com/52283797/65608677-fa540c00-df84-11e9-9846-eac90a806fc9.png)
